@@ -112,4 +112,4 @@ export const useUserStore = defineStore('storeUser', {
 
 - [vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate)
 - [pinia-plugin-persist](https://github.com/Seb-L/pinia-plugin-persist)
-- [pinia-plugin-persist-uni(https://github.com/Allen-1998/pinia-plugin-persist-uni)]
+- [pinia-plugin-persist-uni](https://github.com/Allen-1998/pinia-plugin-persist-uni)
