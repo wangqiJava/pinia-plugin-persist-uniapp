@@ -1,6 +1,6 @@
 {
   "name": "sikehuhu-pinia-persist-uni",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "uniapp的pinia状态管理插件，支持持久化",
   "repository": {
     "type": "git",
