@@ -1,6 +1,9 @@
 import { PiniaPluginContext } from 'pinia'
 
-const isH5 = typeof alert === 'function'
+let isH5 = typeof alert === 'function'
+// #ifdef APP-PLUS
+isH5 = false
+// #endif
 
 export interface PersistStrategy {
   key?: string

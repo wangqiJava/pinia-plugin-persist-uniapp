@@ -1,9 +1,10 @@
 {
-  "name": "pinia-plugin-persist-uni",
-  "version": "1.2.0",
+  "name": "sikehuhu-pinia-persist-uni",
+  "version": "1.0.0",
+  "description": "uniapp的pinia状态管理插件，支持持久化",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Allen-1998/pinia-plugin-persist-uni.git"
+    "url": "https://github.com/wangqiJava/sikehuhu-pinia-persist-uni.git"
   },
   "scripts": {
     "build": "vite build && tsc",
